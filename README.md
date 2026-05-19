@@ -166,6 +166,9 @@ This project was built to focus more on backend architecture and system design r
 
 The main focus areas were:
 
+## Made By
+Nandni Atray
+
 * allocation logic
 * consistency
 * concurrency safety

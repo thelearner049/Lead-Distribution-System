@@ -8,9 +8,9 @@ The project also includes concurrency handling, webhook idempotency, real-time d
 
 ## Live Demo
 
-Frontend: [YOUR_VERCEL_URL](https://lead-distribution-system-git-main-thelearner059-6054s-projects.vercel.app/)
+Frontend: [VERCEL_URL](https://lead-distribution-system-git-main-thelearner059-6054s-projects.vercel.app/)
 
-Backend: [YOUR_RENDER_URL](https://bookmypackers-backend.onrender.com)
+Backend: [RENDER_URL](https://bookmypackers-backend.onrender.com)
 
 ## Features
 
@@ -112,7 +112,7 @@ POST `/api/webhook/reset-quota`
 ### Clone Repository
 
 ```bash
-git clone [YOUR_GITHUB_REPO](https://github.com/thelearner049/Lead-Distribution-System/)
+git clone [GITHUB_REPO](https://github.com/thelearner049/Lead-Distribution-System/)
 ```
 
 ### Install Frontend Dependencies

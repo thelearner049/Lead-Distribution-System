@@ -47,7 +47,8 @@ const RequestService = () => {
 
   return (
     <div className="flex flex-col items-center justify-center py-7">
-      <h1 className="text-4xl font-extrabold mb-8">✨Request Your Service</h1>
+      <h1 className="text-4xl text-yellow-500 font-extrabold mb-8">✨Prowider Mini Lead Distribution System </h1>
+      <h1 className="text-3xl font-extrabold mb-5">Request Your Service</h1>
       <div className="border rounded-md w-80 p-6">
         <form onSubmit={handleSubmit}>
           <div>

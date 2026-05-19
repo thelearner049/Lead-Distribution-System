@@ -165,12 +165,11 @@ The project contains a dedicated test tools page to simulate:
 This project was built to focus more on backend architecture and system design rather than UI complexity.
 
 The main focus areas were:
-
-## Made By
-Nandni Atray
-
 * allocation logic
 * consistency
 * concurrency safety
 * webhook handling
 * backend reliability
+
+## Made By
+Nandni Atray
